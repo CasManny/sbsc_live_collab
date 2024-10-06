@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "@liveblocks/react-ui/styles.css";
+@import "@liveblocks/react-lexical/styles.css";
+@import '../styles/light-theme.css';
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -9,6 +13,13 @@ body {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  .header {
+    @apply min-h-[92px] w-full flex flex-nowrap items-center justify-between
+  }
+  .document-empty-list {
+    @apply max-w-[730px] flex w-full px-10 justify-center items-center flex-col
   }
 }
 
