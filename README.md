@@ -1,5 +1,6 @@
 # Task: Innovative Feature Implementation [FRONTEND DEVELOPER JOB TASK]
-A collaborative real time document editing tool for [SOFTWARE BUSINESS SOLUTIONS CONSULTING SBSC]https://www.sbsc.com/
+A collaborative real time document editing tool for
+<a href="https://www.sbsc.com/" target="_blank"><b>SOFTWARE BUSINESS SOLUTIONS CONSULTING SBSC</b></a>. 
 
 
 ## Tech Stack
