@@ -93,6 +93,9 @@ body {
   .remove-btn {
     @apply rounded-lg bg-transparent px-0 text-red-500;
   }
+  .shad-popover {
+    @apply w-[460px] border-none shadow-lg !important;
+  }
 }
 
 @layer base {
