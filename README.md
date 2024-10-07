@@ -4,11 +4,11 @@ A collaborative real time document editing tool for
 
 
 ## Tech Stack
--Next js
--Typescript
--Liveblocks
--Shadcn ui
--Tailwind css
+- Next js
+- Typescript
+- Liveblocks
+- Shadcn ui
+- Tailwind css
 
 
 ## Features
