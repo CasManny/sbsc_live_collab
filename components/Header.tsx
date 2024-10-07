@@ -13,7 +13,7 @@ const Header = ({ children }: Props) => {
         <FilesIcon className="text-sbsc mr-1" />
         <h1 className="text-sbsc font-bold">SBSC-COLLAB</h1>
       </Link>
-      <div className="">{children}</div>
+      {children}
     </header>
   );
 };
